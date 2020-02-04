@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: #00FFFF;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: rgb(59, 28, 170);
+    font-family: 'rsuregular', cursive;
+    text-shadow: 5px 0 rgb(255, 0, 64);
+  }
+  
+  h2{
+    font-size: 2.5rem;
+    color: rgb(59, 28, 170);
+    font-family: 'rsuregular', cursive;
+    text-shadow: 2.5px 0 rgb(255, 0, 64);
+    
+  }
+  .manual{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+    
+  }
+  
+  .guessField{
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+    font-family: 'rsubold', cursive;
+  }
+
+  .guessSubmit{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+    background-color: rgb(17, 0, 255);
+  }
+
+  .result{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+    background-color: rgb(255, 0, 64);
+
+  }
+
+  .history{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+  }
+  .turn{
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+    background-color: rgb(255, 0, 64);
+  }
+  button{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    font-family: 'rsubold', cursive;
+    background-color: rgb(17, 0, 255);
+  }
+  
